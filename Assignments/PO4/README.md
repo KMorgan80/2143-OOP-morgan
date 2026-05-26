@@ -1,5 +1,5 @@
 ## P04 - Dice
-### Kate Morgan
+### K Morgan
 ### Description:
 
 This program is a rewrite of the Dice C++ program in python. It is meant to be used in

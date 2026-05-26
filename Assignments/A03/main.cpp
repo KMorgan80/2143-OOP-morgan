@@ -1,6 +1,6 @@
 /*****************************************************************************
 *                    
-*  Author:           Kate Morgan
+*  Author:           K Morgan
 *  Email:            kbmorgan0911@my.msutexas.edu
 *  Label:            AO3
 *  Title:            Commented code

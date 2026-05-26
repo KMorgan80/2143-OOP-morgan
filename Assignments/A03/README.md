@@ -1,8 +1,8 @@
 ## A03 - Commenting Code
-### Kate Morgan
+### K Morgan
 ### Description:
 
-This program implements a list data structure that links together nodes of integers. It does more stuff, but we don't need to write that here.
+This program implements a circular linked list of integers. The assignment focuses on proper C++ commenting conventions, demonstrating how to document a data structure class with header comments, inline comments, and method documentation.
 
 ### Files
 

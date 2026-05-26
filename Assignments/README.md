@@ -1,7 +1,11 @@
-##  Assignments Folder
+## Assignments Folder
 
-|   #   | Folder Link | Assignment Description |
-| :---: | ----------- | ---------------------- |
-|  PO1  | https://github.com/KateM80/2143-OOP-morgan/tree/main/Assignments/P01 | My Vector Class pt 1|
-|  PO2  |https://github.com/KateM80/2143-OOP-morgan/tree/main/Assignments/PO2 | My Vector Class pt 2|
-|  PO3  |https://github.com/KateM80/2143-OOP-morgan/tree/main/Assignments/PO3 | GraphViz |
+|   #    | Folder | Assignment Description |
+| :----: | ------ | ---------------------- |
+|  A03   | [A03](A03/) | Commenting best practices — circular linked list of integers |
+|  AO5   | [AO5](AO5/) | UML class diagrams for a D&D character system |
+| Primer | [OOP_Primer](OOP_Primer/) | Glossary of core OOP concepts and definitions |
+|  P01   | [P01](P01/) | Vector class pt. 1 — doubly linked list with push/pop front and rear |
+|  PO2   | [PO2](PO2/) | Vector class pt. 2 — operator overloading (`<<`, `[]`) |
+|  PO3   | [PO3](PO3/) | GraphViz library — outputs dot syntax for graph visualization |
+|  PO4   | [PO4](PO4/) | Dice class rewrite from C++ to Python for D&D use |

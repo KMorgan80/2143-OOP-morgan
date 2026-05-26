@@ -1,10 +1,10 @@
 ## P01 - Vector Class
-### Kate Morgan
+### K Morgan
 ### Description:
 
-This program uses a double linked list to creat a vector class to store integers. The class
-contians methods for pushing and poping data either to the front or rear of the vector. The
-class also contains a method for printing the vector to the console and an output file.
+This program implements a vector class backed by a doubly linked list to store integers. The class
+contains methods for pushing and popping data to the front or rear of the vector. It also includes
+a method for printing the vector to both the console and an output file.
 
 ### Files
 

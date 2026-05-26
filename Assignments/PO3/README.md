@@ -1,9 +1,9 @@
 ## P03 - GraphViz
-### Kate Morgan
+### K Morgan
 ### Description:
 
-Program that allows the output of graphviz dot syntex to create graphs. To utlize the program
-there is a GraphViz class that contians methods for adding attributes, Nodes, and Edges to the graph.
+Program that generates GraphViz dot syntax to create graphs. The GraphViz class contains methods
+for adding attributes, nodes, and edges, which can then be rendered by GraphViz to produce graph diagrams.
 
 ### Files
 

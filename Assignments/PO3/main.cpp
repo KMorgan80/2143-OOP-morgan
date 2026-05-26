@@ -1,6 +1,6 @@
 /*****************************************************************************
  *
- *  Author:           Kate Morgan
+ *  Author:           K Morgan
  *  Title:            GraphViz
  *  Course:           2143
  *  Semester:         Spring 2023
@@ -355,8 +355,8 @@ int main() {
   Arrow4["color"] = "blue";
 
   //out puts a header for the console and output file
-  cout << "Kate Morgan\n3/8/2023\nSpring 2023\n\n";
-  outfile << "Kate Morgan\n3/8/2023\nSpring 2023\n\n";
+  cout << "K Morgan\n3/8/2023\nSpring 2023\n\n";
+  outfile << "K Morgan\n3/8/2023\nSpring 2023\n\n";
 
   //Creation of a graph called G1 LinkedList
   GraphViz G1("LinkedList");

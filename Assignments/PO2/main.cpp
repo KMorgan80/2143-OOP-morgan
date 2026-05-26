@@ -1,6 +1,6 @@
 /*****************************************************************************
  *
- *  Author:           Kate Morgan
+ *  Author:           K Morgan
  *  Title:            Doubly linked list vector implementation
  *  Course:           2143
  *  Semester:         Spring 2023

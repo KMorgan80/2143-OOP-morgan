@@ -1,8 +1,8 @@
 ## P02 - MyVector Class 2
-### Kate Morgan
+### K Morgan
 ### Description:
 
-Part 2 of creating a vector class from scratch. In this one Created methods for overriding operators
+Part 2 of the vector class. Extends P01 with operator overloading, implementing `<<` for printing and `[]` for index access, making the class behave more like an STL container.
 
 ### Files
 

@@ -1,7 +1,7 @@
 
 /*****************************************************************************
 *                    
-*  Author:           Kate Morgan
+*  Author:           K Morgan
 *  Email:            kbmorgan0911@gmail.com 
 *  Label:            Program 1 - vector class
 *  Title:            Vector class
@@ -238,7 +238,7 @@ public:
     outfile.open("test.out");
     node *trav = new node();           //temp node to traverse the vector
     trav = head;
-    outfile << "Kate Morgan\n" << "feb 6, 2023\n" << "spring 2023\n";
+    outfile << "K Morgan\n" << "feb 6, 2023\n" << "spring 2023\n";
     cout <<"[";
     outfile << "[";
     while (trav->next != nullptr) {    //while loop to traverse the vector and print it
